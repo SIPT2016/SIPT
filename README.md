@@ -46,7 +46,8 @@ development and are <u>not released for general circulation at this time</u>.
 			could be entered. The second, noIrregularDemo, version is the same as the 
 			full Demo version but without any irregular data. The third version, noDemo, has 
 			no demonstration data and may be the easiest to edit. You might review the 
-			<B>Introduction</B> initial worksheet that describes how to use the 
+            <A HREF="SIPT-Introduction.pdf"><B>SIPT-Introduction (PDF)</B></A>
+            initial worksheet that describes how to use the 
 			spreadsheet. There three distributions of the spreadsheet are listed 
 			below. Click on a hyperlink to download it. To edit and save your 
 			data, your version of Excel on your computer may require you to click on 
@@ -57,6 +58,7 @@ development and are <u>not released for general circulation at this time</u>.
 <table BGCOLOR="blue">
 <tr>
 <td>
+
 <DL>
 <DT>Full Demo Data
 <DD>
@@ -84,8 +86,13 @@ development and are <u>not released for general circulation at this time</u>.
 <LI>Useful for entering your data from scratch without having to overwrite any demonstration data answers.
 </UL>
 </DT>
+</DL>
+
+<DT> <A HREF="SIPT-Introduction.pdf"><B>SIPT Introduction (PDF)</B></A>
+</DT>
 
 </DL>
+
 </td>
 </tr>
 </table>
